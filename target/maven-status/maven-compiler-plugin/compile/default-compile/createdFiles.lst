@@ -1,0 +1,11 @@
+com\s3communication\protobuf\FileProto$FileData$1.class
+com\s3communication\protobuf\FileProto$FileData.class
+com\s3communication\s3communication\service\StorageService.class
+com\s3communication\protobuf\FileProto$FileData$Builder.class
+com\s3communication\s3communication\S3communicationApplication.class
+com\s3communication\protobuf\FileProto.class
+com\s3communication\protobuf\FileProto$FileDataOrBuilder.class
+com\s3communication\s3communication\config\AwsProperties.class
+com\s3communication\s3communication\config\AwsProperties$S3.class
+com\s3communication\s3communication\config\StorageConfig.class
+com\s3communication\s3communication\controller\StorageController.class

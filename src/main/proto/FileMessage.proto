@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option java_package = "com.s3communication.protobuf";
+option java_outer_classname = "FileProto";
+
+message FileData {
+  string fileName = 1;
+  bytes content = 2;
+}
